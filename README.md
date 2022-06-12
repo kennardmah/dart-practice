@@ -17,4 +17,6 @@ Through Coursera, I plan to learn the fundamentals of Dart and Flutter for fun w
 - Lab 02 - Introducing Widgets 
 - Lab 03 - Data Management
 - Lab 04 - User Interaction 
-- Lab 05 - Multiple Pages
+- Lab 05 - Multiple Pages 
+
+Solutions can be found in the following repository (/rosera/flutter_workshop)
