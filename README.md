@@ -1,7 +1,6 @@
-# Intro to Dart
+Through Coursera, I plan to learn the fundamentals of Dart and Flutter for fun while also teaching myself through other sites. This repository consists of my certificates obtained from Coursera and the workshop.
 
-Welcome to Dart Essentials.
-Learn the fundamentals of Dart and get started building applications.
+# Intro to Dart
 
 - [Lab 01 - Variables](https://github.com/rosera/flutter_workshop/tree/main/dart/lab01)
 - [Lab 02 - Flow Statements](https://github.com/rosera/flutter_workshop/tree/main/dart/lab02)
@@ -12,12 +11,7 @@ Learn the fundamentals of Dart and get started building applications.
 - [Lab 07 - Maps](https://github.com/rosera/flutter_workshop/tree/main/dart/lab07)
 - [Lab 08 - Lists](https://github.com/rosera/flutter_workshop/tree/main/dart/lab08)
 
-Return to [home](https://github.com/rosera/flutter_workshop)
-
 # Intro to Flutter
-
-Welcome to Flutter Essentials.
-Learn the fundamentals of Flutter and get started building applications.
 
 - Lab 01 - Application Basics 
 - Lab 02 - Introducing Widgets 
