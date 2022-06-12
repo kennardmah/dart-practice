@@ -11,6 +11,8 @@ Through Coursera, I plan to learn the fundamentals of Dart and Flutter for fun w
 - [Lab 07 - Maps]
 - [Lab 08 - Lists]
 
+- [Certificates for all Dart courses](github.com/kennardmah/google-cloud-coursera-courses/certificates/dart/dart_compiled_certificates.pdf)
+
 # Intro to Flutter
 
 - Lab 01 - Application Basics 
@@ -19,4 +21,4 @@ Through Coursera, I plan to learn the fundamentals of Dart and Flutter for fun w
 - Lab 04 - User Interaction 
 - Lab 05 - Multiple Pages 
 
-Solutions can be found in the following repository (/rosera/flutter_workshop)
+Other solutions can be found in the following repository (/rosera/flutter_workshop)
