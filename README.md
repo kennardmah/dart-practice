@@ -2,14 +2,14 @@ Through Coursera, I plan to learn the fundamentals of Dart and Flutter for fun w
 
 # Intro to Dart
 
-- [Lab 01 - Variables](https://github.com/rosera/flutter_workshop/tree/main/dart/lab01)
-- [Lab 02 - Flow Statements](https://github.com/rosera/flutter_workshop/tree/main/dart/lab02)
-- [Lab 03 - Functions](https://github.com/rosera/flutter_workshop/tree/main/dart/lab03)
-- [Lab 04 - Import Statements](https://github.com/rosera/flutter_workshop/tree/main/dart/lab04)
-- [Lab 05 - Classes](https://github.com/rosera/flutter_workshop/tree/main/dart/lab05)
-- [Lab 06 - Asynchronous](https://github.com/rosera/flutter_workshop/tree/main/dart/lab06)
-- [Lab 07 - Maps](https://github.com/rosera/flutter_workshop/tree/main/dart/lab07)
-- [Lab 08 - Lists](https://github.com/rosera/flutter_workshop/tree/main/dart/lab08)
+- [Lab 01 - Variables]
+- [Lab 02 - Flow Statements]
+- [Lab 03 - Functions]
+- [Lab 04 - Import Statements]
+- [Lab 05 - Classes]
+- [Lab 06 - Asynchronous]
+- [Lab 07 - Maps]
+- [Lab 08 - Lists]
 
 # Intro to Flutter
 
@@ -17,6 +17,4 @@ Through Coursera, I plan to learn the fundamentals of Dart and Flutter for fun w
 - Lab 02 - Introducing Widgets 
 - Lab 03 - Data Management
 - Lab 04 - User Interaction 
-- Lab 05 - Multiple Pages 
-
-Return to [home](https://github.com/rosera/flutter_workshop)
+- Lab 05 - Multiple Pages
