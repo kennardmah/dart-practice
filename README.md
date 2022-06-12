@@ -11,7 +11,7 @@ Through Coursera, I plan to learn the fundamentals of Dart and Flutter for fun w
 - [Lab 07 - Maps]
 - [Lab 08 - Lists]
 
-- [Certificates for all Dart courses](github.com/kennardmah/google-cloud-coursera-courses/tree/certificates/dart/dart_compiled_certificates.pdf)
+- [Certificates for all Dart courses](github.com/kennardmah/google-cloud-coursera-courses/tree/main/certificates/dart/dart_compiled_certificates.pdf)
 
 # Intro to Flutter
 
