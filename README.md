@@ -1,4 +1,4 @@
-Through Coursera, I plan to learn the fundamentals of Dart and Flutter for fun while also teaching myself through other sites. This repository consists of my certificates obtained from Coursera and the workshop.
+Through Coursera, I plan to learn the fundamentals of Dart and Flutter. This repository consists of my certificates obtained from Coursera and the workshop.
 
 # Intro to Dart
 
